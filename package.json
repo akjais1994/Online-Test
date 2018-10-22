@@ -1,0 +1,17 @@
+{
+  "name": "test_app",
+  "version": "1.0.0",
+  "description": "this app is created to test you",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "lodash": "^4.17.11"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Anubhav Jaiswal",
+  "license": "ISC"
+}

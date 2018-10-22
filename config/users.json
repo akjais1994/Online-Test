@@ -1,0 +1,41 @@
+{
+    "users": [
+    {
+        "userName": "ajaiswal@gmail.com",
+        "name":"anubhav",
+        "password": "12345",
+        "role":"student"
+
+    },
+    {
+        "userName": "bjaiswal@gmail.com",
+        "name":"anfubhav",
+        "password": "2345",
+        "role":"student"
+    },
+    {
+        "userName": "cjaiswal@gmail.com",
+        "name":"anurtbhav",
+        "password": "3456",
+        "role":"student"
+    },
+    {
+        "userName": "djaiswal@gmail.com",
+        "name":"anubhdfgav",
+        "password": "4567",
+        "role":"student"
+    },
+    {
+        "userName": "ejaiswal@gmail.com",
+        "name":"anudfbhav",
+        "password": "5678",
+        "role":"student"
+    },
+    {
+        "userName": "fjaiswal@gmail.com",
+        "name":"anubdfhav",
+        "password": "6789",
+        "role":"admin"
+    }
+]
+}
